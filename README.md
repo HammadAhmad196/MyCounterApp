@@ -1,2 +1,0 @@
-# MyCounterApp
-Created with CodeSandbox
